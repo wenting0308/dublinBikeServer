@@ -1,0 +1,3 @@
+[console_scripts]
+dublin_bikes_server = dublin_bikes_server.main:app.run
+
